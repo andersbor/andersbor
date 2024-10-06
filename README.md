@@ -1,3 +1,3 @@
 - Hi, I’m Anders B
-- I teach computer programming at Zealand http://zealand.com
-- I’m currently learning modern Android application development using Kotlin and Jetpack
+- I teach computer programming at Zealand http://zealand.dk
+- I’m currently teaching (and learning...)  Android application development using Kotlin and Jetpack
